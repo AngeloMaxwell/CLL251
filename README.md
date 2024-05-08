@@ -1,0 +1,1 @@
+The above is a COMSOL mph file showcasing a simulation of heat transfer in the inner wall of the boiler. We have assumed a constant heat flux Q to the inner surface of the boiler and have subsequently derived the profiles for various variables. In addition, we have also calculated the corresponding heat flux in the above case.
